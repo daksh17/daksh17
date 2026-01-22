@@ -1,6 +1,17 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Running and scaling MongoDB in production, improving reliability, and automating infra with Terraform.<br><br>👯 I’m looking to collaborate on<br>Database tooling, MongoDB automation, infra-as-code, and reliability-focused backend projects.<br><br>🤝 I’m looking for help with<br>Better observability patterns for large MongoDB fleets and performance testing at scale.<br><br>🌱 I’m currently learning<br>Advanced MongoDB internals, cloud cost optimization, and cleaner platform abstractions.<br><br>💬 Ask me about<br>MongoDB operations, replica sets & sharding, Terraform, backups, migrations, and production incidents.<br><br>⚡ Fun fact<br>I trust boring systems more than clever ones — if it works quietly, it’s probably well designed.
+🔭 I’m currently working on
+Designing, running, and scaling MongoDB and PostgreSQL systems in production, backed by Redis and Kubernetes.
 
+👯 I’m looking to collaborate on
+Database reliability, infra automation with Terraform, Kubernetes-native data platforms, and performance tooling.
+
+🤝 I’m looking for help with
+Advanced observability for stateful workloads on Kubernetes and large-scale performance testing.
+
+🌱 I’m currently learning
+Deeper database internals, Kubernetes optimizations for stateful systems, and smarter infra abstractions.
+
+💬 Ask me about
+MongoDB, PostgreSQL, Redis, Terraform, Kubernetes, backups, migrations, and production troubleshooting.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Dash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dasharath (Dash) Dixit ) 
